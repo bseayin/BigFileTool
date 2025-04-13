@@ -14,7 +14,8 @@ Whether you're organizing personal files or managing large volumes of data for y
 ## Download Now
 
 Get started with **BigFileTool** by downloading the latest version:
-[Download BigFileTool](https://github.com/yourusername/bigfiletool/releases/latest)
+
+[Download BigFileTool](https://github.com/bseayin/BigFileTool/blob/main/download/20250413/bigfiletool.exe)
 
 ## Free Licenses
 
